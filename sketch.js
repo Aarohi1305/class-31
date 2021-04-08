@@ -1,3 +1,13 @@
+var a=5;
+var b="Aarohi";
+console.log(a*2);
+console.log(b*2);
+var c=false;
+console.log(a);
+var car = ["alto","jeep","BMW",10,false];
+console.log(car.length);
+console.log(car[4]);
+
 const Engine = Matter.Engine;
 const World= Matter.World;
 const Bodies = Matter.Bodies;
